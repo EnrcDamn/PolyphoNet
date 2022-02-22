@@ -1,6 +1,8 @@
 # PolyphoNet
 -- to be updated --
+
 A deep learning model for generating 4-voices polyphonic music pieces.
+
 Trained on a dataset of chorale harmonizations by Johann Sebastian Bach.
 
 ## Requirements
